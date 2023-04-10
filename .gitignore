@@ -4,4 +4,5 @@ __pycache__
 dist/
 *.pyc
 .pytest_cache/
-
+gendiff/file1.json
+gendiff/file2.json
