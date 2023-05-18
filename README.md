@@ -3,7 +3,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AndryVanDuk/python-project-50/workflows/hexlet-check/badge.svg)](https://github.com/AndryVanDuk/python-project-50/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/d88097284907373d4fdf/maintainability)](https://codeclimate.com/github/AndryVanDuk/python-project-50/maintainability)
-
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d88097284907373d4fdf/test_coverage)](https://codeclimate.com/github/AndryVanDuk/python-project-50/test_coverage)
 
 ### Built With
 
